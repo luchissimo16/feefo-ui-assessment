@@ -2,8 +2,6 @@
 
 React/TypeScript implementation of the Feefo Product Rating card for the technical assessment.
 
-Reference: [`reference/feefo-rating-reference.png`](reference/feefo-rating-reference.png)
-
 ## Stack
 
 React, TypeScript, Vite, Vitest, React Testing Library, CSS Modules.
@@ -15,7 +13,6 @@ npm install
 npm run dev
 ```
 
-Open the URL printed by Vite (typically `http://localhost:5173`).
 
 ## Scripts
 
